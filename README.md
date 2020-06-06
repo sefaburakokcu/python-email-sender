@@ -36,7 +36,7 @@ email_sender.send_email(receiver_email, subject, message_body, attachments)
 
 ## License
 
-This work is published under [MIT](https://github.com/sefaburakokcu/python-email-sender/LICENSE) License.
+This work is published under [MIT](https://github.com/sefaburakokcu/python-email-sender/blob/master/LICENSE) License.
 
 
 

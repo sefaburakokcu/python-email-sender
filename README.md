@@ -10,7 +10,7 @@ This is an automatic e-mail sender using Python.
 
 ## Installation
 
-To get started, download and put "email_sender.py" under the folder that contains your project file that send emails.
+To get started, download and put "email_sender.py" under the folder that contains your project files that send emails.
 
 ## Usage
 
